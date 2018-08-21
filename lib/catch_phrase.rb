@@ -1,4 +1,4 @@
 def catch_phrase(an_arg)
-  phrase = 
+  phrase = an_arg
   puts phrase
 end
